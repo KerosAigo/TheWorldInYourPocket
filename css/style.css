@@ -10,7 +10,7 @@ html,body{
     -webkit-tap-highlight-color:transparent
 }
 
-canvas{
+body>canvas{
     display:block;
     position:fixed;
     inset:0;
@@ -19,6 +19,7 @@ canvas{
 }
 
 canvas.panning{cursor:grabbing}
+canvas.hot{cursor:pointer}
 
 #note{
     position:fixed;

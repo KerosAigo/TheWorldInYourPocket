@@ -1,0 +1,15 @@
+{
+  "name": "Colis",
+  "w": 128,
+  "h": 128,
+  "anims": [
+    {
+      "name": "repos",
+      "fps": 1,
+      "loop": true,
+      "frames": [
+        "data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 128 128%22%3E%3Cpath d=%22m64 15 45 23-45 24-45-24z%22 fill=%22%23c58b4a%22 stroke=%22%23392718%22 stroke-width=%223%22 stroke-linejoin=%22round%22/%3E%3Cpath d=%22m19 38 45 24v46L19 84z%22 fill=%22%23976034%22 stroke=%22%23392718%22 stroke-width=%223%22 stroke-linejoin=%22round%22/%3E%3Cpath d=%22m64 62 45-24v46l-45 24z%22 fill=%22%23704526%22 stroke=%22%23392718%22 stroke-width=%223%22 stroke-linejoin=%22round%22/%3E%3Cpath d=%22M58 19h12v39l-6 4-6-4z%22 fill=%22%23e4bd78%22 stroke=%22%238e6739%22 stroke-width=%221.5%22/%3E%3Cpath d=%22M58 62h12v43l-6 3-6-3z%22 fill=%22%23d7ac69%22 stroke=%22%23684625%22 stroke-width=%221.5%22/%3E%3Cpath d=%22m24 40 40 20 40-20M24 43v39m80-39v39%22 fill=%22none%22 stroke=%22%23ffe0a5%22 stroke-opacity=%22.8%22 stroke-width=%221.5%22/%3E%3Cpath d=%22m76 70 22-12v18L76 88z%22 fill=%22%23eadbb7%22 stroke=%22%234a3724%22 stroke-width=%221.5%22/%3E%3Cpath d=%22m80 72 14-7m-14 11 11-6m-10 13 14-8m-12 11 12-7%22 fill=%22none%22 stroke=%22%23776449%22 stroke-width=%221%22/%3E%3Cpath d=%22m23 85 40 21m2 0 42-22%22 fill=%22none%22 stroke=%22%23ffdc9e%22 stroke-opacity=%22.45%22/%3E%3C/svg%3E"
+      ]
+    }
+  ]
+}

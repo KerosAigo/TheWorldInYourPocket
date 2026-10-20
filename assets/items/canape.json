@@ -1,0 +1,30 @@
+{
+  "id": "paper:canape",
+  "v": 1,
+  "name": "Canapé",
+  "cat": "objet",
+  "ratio": 1,
+  "res": 256,
+  "rarity": "Commun",
+  "anims": [
+    {
+      "name": "repos",
+      "fps": 1,
+      "loop": true,
+      "frames": [
+        {
+          "li": 0,
+          "ly": [
+            {
+              "n": "Canapé",
+              "v": true,
+              "o": 1,
+              "l": false,
+              "img": "assets/items/canape.svg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
